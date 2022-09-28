@@ -1,3 +1,5 @@
-# Data Quality tutorial
+# Data Quality Bond
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/datascience-uniandes/data-quality-tutorial/)
+Presented by David Polanía Mejía
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidpolme/data-quality-bond/)
